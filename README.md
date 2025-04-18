@@ -29,21 +29,13 @@
 ## 🛠️ Skills & Tools
 
 - **Simulation Tools**:  
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-  ![Simulink](https://img.shields.io/badge/Simulink-F4B400?style=flat&logo=mathworks&logoColor=white)
-  ![Proteus](https://img.shields.io/badge/Proteus-0A79DF?style=flat&logo=proteus&logoColor=white)
-  ![AutoCAD](https://img.shields.io/badge/AutoCAD-E2231A?style=flat&logo=autodesk&logoColor=white)
+   MATLAB, Simulink, Proteus, AutoCAD
 
 - **Microcontrollers**:  
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-  ![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat&logo=espressif&logoColor=white)
-  ![TI](https://img.shields.io/badge/TI%20TMS320F28379D-CC0000?style=flat&logo=texasinstruments&logoColor=white)
-  ![DS1104](https://img.shields.io/badge/dSPACE%20DS1104-blue?style=flat)
+   Arduino, ESP32, TI, DS1104
 
 - **Programming Languages**:  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+   C, C++, Python
 
 - **Hardware Implementation**:  
   Gate drivers (TLP250), sensor circuits, converter PCBs, BLDC motor control systems
