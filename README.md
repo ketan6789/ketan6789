@@ -3,7 +3,7 @@
 
 # 👋  Welcome to my GitHub!
 
-🎓 I'm a 3rd-year Electrical Engineering (EV) student at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**.  
+🎓 I'm a 4th-year Electrical Engineering (EV) student at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**.  
 🔌 Passionate about **Power Electronics**, **Electric Machines**, **Control Systems**, and emerging **EV Technologies**.  
 🚀 I love bridging the gap between theory and hands-on implementation — from simulations to real hardware!
 
@@ -12,11 +12,11 @@
 
 ## 🚀 Projects & Research Interests
 
+- ⚙️ **FPGA Enabled Solar MPPT System for Space Application**  
+  *Simulated and developed MPPT algorithm for Space application using FPGA*
+
 - 🚲 **Design and Development of an Electric Bicycle Based on BLDC Motor**  
   *Closed-loop speed control using TMS320F28379D; simulation and hardware implementation*
-
-- ⚙️ **Closed-Loop Control of DC Motor Using Four-Quadrant Chopper**  
-  *Designing and simulation of chopper-based speed control system for precise bidirectional operation*
 
 - 🔋 **Buck Converter PCB Design**  
   *Developing a PCB of Buck Converter capable of handling voltages as high as 50 voltage*
@@ -35,24 +35,17 @@
    Arduino, ESP32, TI, DS1104
 
 - **Programming Languages**:  
-   C, C++, Python
+   C, Verilog, Python
 
 - **Hardware Implementation**:  
   Gate drivers (TLP250), sensor circuits, converter PCBs, BLDC motor control systems
 
 ---
 
-## 🧠 Currently Exploring
-
-- Field Oriented Control
-- Real-time control implementation using TI microcontrollers
-- Summer research internships in power electronics, advanced control systems, and electric motor drives
 
 ## 👀 Open To
 
 - Research internships (domestic & international)
-- Collaboration on power electronics, motor control, power systems projects
-
 
 ---
 
