@@ -3,7 +3,7 @@
 
 # 👋  Welcome to my GitHub!
 
-🎓 I'm a 4th-year Electrical Engineering (EV) student at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**.  
+🎓 I'm a Electrical Engineering (EV) Graduate from **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**.  
 🔌 Passionate about **Power Electronics**, **Electric Machines**, **Control Systems**, and emerging **EV Technologies**.  
 🚀 I love bridging the gap between theory and hands-on implementation — from simulations to real hardware!
 
