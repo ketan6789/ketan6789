@@ -3,8 +3,8 @@
 
 # 👋  Welcome to my GitHub!
 
-🎓 I'm a Electrical Engineering (EV) Graduate from **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**.  
-🔌 Passionate about **Power Electronics**, **Electric Machines**, **Control Systems**, and emerging **EV Technologies**.  
+🎓 I'm an Electrical Engineering (EV) Graduate from **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**.  
+🔌 Interested in Power Electronics, Motor Drives, Digital Control Systems, and Renewable Energy Technologies.  
 🚀 I love bridging the gap between theory and hands-on implementation — from simulations to real hardware!
 
 
@@ -13,16 +13,16 @@
 ## 🚀 Projects & Research Interests
 
 - ⚙️ **FPGA Enabled Solar MPPT System for Space Application**  
-  *Simulated and developed MPPT algorithm for Space application using FPGA*
+  *Simulated and developed an FPGA-based MPPT system for space applications*
 
 - 🚲 **Design and Development of an Electric Bicycle Based on BLDC Motor**  
   *Closed-loop speed control using TMS320F28379D; simulation and hardware implementation*
 
 - 🔋 **Buck Converter PCB Design**  
-  *Developing a PCB of Buck Converter capable of handling voltages as high as 50 voltage*
+  *Designed and developed a buck converter PCB for high-voltage DC–DC conversion applications*
 
-- 🌍 **Earthing Healthiness Monitoring System**  
-  *Checks for leakage current, earthing continuity, and earth resistance at electrical poles*
+- ⚡ **Design of an Intelligent EMS for Multi-Port EV Charging**  
+  *Multi-port EV charging system with intelligent EMS, PV integration, and bidirectional DC–DC converter control*
 
 ---
 
@@ -31,8 +31,8 @@
 - **Simulation Tools**:  
    MATLAB, Simulink, Proteus, AutoCAD
 
-- **Microcontrollers**:  
-   Arduino, ESP32, TI, DS1104
+- **Embedded Platforms & Controllers**:  
+   Arduino, ESP32, TI C2000, MSP430, dSPACE DS1104
 
 - **Programming Languages**:  
    C, Verilog, Python
@@ -45,7 +45,9 @@
 
 ## 👀 Open To
 
-- Research internships (domestic & international)
+- Research internships
+- Master’s / MS-PhD opportunities
+- Collaborative research in Power Electronics and Control Systems
 
 ---
 
